@@ -1,8 +1,3 @@
-package ProjectFinal;
-
-/**
- * @author Group 19
- */
 import javafx.scene.control.CheckBox;
 
 public class Book {
