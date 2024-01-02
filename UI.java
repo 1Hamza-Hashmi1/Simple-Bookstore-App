@@ -1,5 +1,3 @@
-package ProjectFinal;
-
 import javafx.application.Application;
 import java.io.IOException;
 import java.util.logging.Level;
@@ -29,9 +27,6 @@ import javafx.scene.text.FontWeight;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
 
-/**
- * @author Group 19
- */
 public class UI extends Application {
 
     User currentUser;
