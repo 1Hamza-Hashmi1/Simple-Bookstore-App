@@ -1,5 +1,3 @@
-package ProjectFinal;
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
@@ -10,9 +8,6 @@ import java.io.PrintWriter;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 
-/**
- * @author Group 19
- */
 public class Booklist {
 
     private static String filename = "books.txt";
