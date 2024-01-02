@@ -1,5 +1,3 @@
-package ProjectFinal;
-
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
@@ -8,9 +6,6 @@ import java.io.IOException;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 
-/**
- * @author Group 19
- */
 public class Userlist {
 
     private static String filename = "customers.txt";
