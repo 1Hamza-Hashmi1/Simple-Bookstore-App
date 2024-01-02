@@ -1,5 +1,3 @@
-package ProjectFinal;
-
 import java.io.BufferedReader;
 import javafx.scene.control.CheckBox;
 import java.io.*;
@@ -7,9 +5,6 @@ import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.scene.control.CheckBox;
 
-/**
- * @author Group 19
- */
 public class User {
 
     private String username;
